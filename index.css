@@ -1,0 +1,10 @@
+.element {
+  border: 9px solid red;
+  overflow-y: scroll;
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  margin-left: 450px;
+  margin-top: 50px;
+  border-radius: 0px 10px 20px;
+}
